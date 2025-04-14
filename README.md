@@ -3,9 +3,9 @@ Trabajos personales referidos a la materia de Simtaxis y Semantica de los lengua
 
 Sintaxis y semántica de los Lenguajes 
 
-Curso: K2102 
-Año: 2025 // Materia anual 
-Legajo: 222.414-8 
-Apellido: Intili 
-Nombre: Thiago 
+Curso: K2102  <br>
+Año: 2025 // Materia anual  <br>
+Legajo: 222.414-8  <br>
+Apellido: Intili  <br>
+Nombre: Thiago  <br>
 
